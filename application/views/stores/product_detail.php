@@ -35,7 +35,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-6" style="z-index:-100">
+                <div class="col-md-6" >
                     <div class="row">
                         <h3 class="col-md-12 price">$100.56</h3>
                     </div>

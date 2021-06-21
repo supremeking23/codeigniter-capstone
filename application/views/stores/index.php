@@ -4,7 +4,7 @@
     <body>
 <?php $this->load->view("stores/includes/header");?>
         <main class="container mt-5">  
-        <?php $this->load->view("stores/includes/search_products");?>         
+        <?php $this->load->view("stores/includes/main_store");?>         
         </main>
 
         <footer class="mt-5 p-5">
